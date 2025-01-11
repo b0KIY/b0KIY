@@ -2,4 +2,4 @@
 
 # Hello 👋
 ## I'am a begginer QA Engineer 
-[My links](https://docs.google.com/document/d/1On8aMwsyibRypypAGSza7_q6xAoC1ZN5EDrVUR6rD6g/edit?tab=t.0) 
+[My CV](https://docs.google.com/document/d/1On8aMwsyibRypypAGSza7_q6xAoC1ZN5EDrVUR6rD6g/edit?tab=t.0) 
